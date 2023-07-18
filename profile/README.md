@@ -26,7 +26,7 @@ Our website is under development and should be ready in the coming year. You'll 
 
 Website : [gaskam.com](https://gaskam.com/)
 
-Discord : [Patafix](https://discord.gaskam.com/)
+Discord : [Patafix's Discord](http://discord.gaskam.com/)
 
 Contact Email : contact@gaskam.com
 

@@ -18,7 +18,7 @@ Gaskam is a two-person group made up of Kamil ( [Bot Maker](https://github.com/o
 
 - [Dev Timer](https://github.com/gaskam-com/dev-timer) ( v0.3.0 ) Alpha
 - Dev Chrono ( Comming Soon )
-- BeamRadio ( v0.0.1 ) Pre-Alpha
+- [BeamRadio](https://github.com/gaskam-com/BeamRadio) ( v0.0.1 ) Pre-Alpha
 
 ## Links
 

@@ -2,7 +2,7 @@
 
 Welcome to our GitHub profile! 
 
-Gaskam is a two-person group made up of Kamil ( [Bot Maker](https://github.com/orgs/gaskam-com/people/BOT-maKeR-0000) ) and Gaspard ( [Patafix](https://github.com/orgs/gaskam-com/people/PatafixPLTX) ). We develop small projects like JavaScript libraries, websites or even scipts for ourselves. We also occasionally take part in open-source projects that are close to our hearts...  
+Gaskam is a two-person group made up of Kamil ( [kamil-leys](https://github.com/orgs/gaskam-com/people/kamil-leys) ) and Gaspard ( [gaspard-lebaube](https://github.com/orgs/gaskam-com/people/gaspard-lebaube) ). We develop small projects like JavaScript libraries, websites or even scipts for ourselves. We also occasionally take part in open-source projects that are close to our hearts...  
 
 ## Programming languages
 

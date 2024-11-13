@@ -6,13 +6,13 @@ Gaskam is a two-person group made up of Kamil ( [kamil-leys](https://github.com/
 
 ## Programming languages
 
-- JavaScript
+- Zig
 - TypeScript
+- JavaScript
+- C++
+- LUA
 - HTML5
 - CSS
-- LUA
-- Python
-- C++
 
 ## Projects
 
